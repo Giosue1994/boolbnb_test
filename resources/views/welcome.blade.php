@@ -85,6 +85,8 @@
             <div class="content">
                 <div class="title m-b-md">
                     Boolbnb
+                    <h4>Prova branch</h4>
+                    <h2>bo bob bo </h2>
                 </div>
 
                 <div class="links">
@@ -95,6 +97,7 @@
                     <a href="https://nova.laravel.com">Nova</a>
                     <a href="https://forge.laravel.com">Forge</a>
                     <a href="https://vapor.laravel.com">Vapor</a>
+                    <a href="">Cornetti al pistacchio</a>
                     <a href="https://github.com/laravel/laravel">GitHub</a>
                 </div>
             </div>
