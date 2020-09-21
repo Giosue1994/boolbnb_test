@@ -64,6 +64,9 @@
         </style>
     </head>
     <body>
+        <h2>Mr.Cresc version</h2>
+        <h3>Se vedi questa cacata significa che stiamo capendo qualcosa</h3>
+
         <div class="flex-center position-ref full-height">
             @if (Route::has('login'))
                 <div class="top-right links">
